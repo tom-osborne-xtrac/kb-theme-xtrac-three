@@ -1,0 +1,5 @@
+.vscode/*
+_vti_cnf/*
+*.yml
+*.jscsrc
+js/PapaParse-5.0.2/*
